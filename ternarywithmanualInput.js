@@ -12,3 +12,4 @@ rl.question('Enter number of open defects: ', (Opendefects) => {
   
   rl.close(); // Closes the terminal listener
 });
+
