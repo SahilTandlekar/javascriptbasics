@@ -9,6 +9,5 @@ console.log(index);
 let last = nums.findLast(n => n > 20); //  45
 console.log(last); //searches form last
 
-
 let indexoflast = nums.findLastIndex(n => n > 20); // 3
 console.log(indexoflast);
