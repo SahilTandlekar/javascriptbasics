@@ -1,5 +1,5 @@
 function questionName(input) {
-  let answer;
+   let answer = " ";
 
   switch (input) {
     case 200:
@@ -29,7 +29,6 @@ function questionName(input) {
         default:
       answer = "UNKNOWN - Unhandled status code"
       break;
-
   }
 
   return answer;
